@@ -1,5 +1,11 @@
 <h1>Business Casual readme.md</h1>
 
+<h2>Intro (stuharvey)</h2>
+
+Forked this for possible use on development of acm.vt.edu. My changes will likely be minimal, all other credit goes to <a href="https://github.com/jballands/" target="_blank">Jon Ballands</a> who also wrote everything else in this readme. Incredible work Jonathan!
+
+<hr>
+
 For more information on Business Casual, please go to the <a href="http://jonathanballands.me/bc" target="_blank">Business Casual website</a>.
 
 <h2>Quick Start</h2>
